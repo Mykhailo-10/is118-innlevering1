@@ -31,7 +31,7 @@ I et slikt prosjekt innebærer det å avklare roller og forventninger tidlig, et
 
 Åpen kommunikasjon er en lavterskelmekanisme for konflikthåndtering i en gruppe. Eksempelvis kan gruppemedlemmer helt fra starten bli invitert til å diskutere i hvilke felt eller faser det er mest sannsynlig at det vil oppstå uenighet, uklarhet og konflikter (Jacobsen, 2016). Ved å avdekke dette tidlig reduseres sjansen for store konflikter betraktelig.
 
-Opprettelse av en gruppekontrakt kan også være et godt virkemiddel for å unngå konflikter. Å lage en bindende kontrakt, i kombinasjon med å opprette et uavhengig organ som kan behandle uenigheter mellom partene i et prosjekt (Jacobsen, 2016), har god effekt ifølge empiriske studier (Jacobsen, 2016) Dette sikrer at prosjektleder har en instans å henvende seg til dersom det oppstår en konflikt gruppen ikke klarer å løse selv. Dermed kan prosjektleder holde større fokus på det faktiske arbeidet som skal utføres. 
+Opprettelse av en gruppekontrakt kan også være et godt virkemiddel for å unngå konflikter. Å lage en bindende kontrakt, i kombinasjon med å opprette et uavhengig organ som kan behandle uenigheter mellom partene i et prosjekt (Jacobsen, 2016), har god effekt ifølge empiriske studier (Jacobsen, 2016) Dette sikrer at prosjektleder har en instans å henvende seg til dersom det oppstår en konflikt gruppen ikke klarer å løse selv. Dermed kan prosjektleder holde større fokus på det faktiske arbeidet som skal utføres.
 ## 5. Håndtering av tidspress og "planleggingsfellen":
 
 ## 6. Sikring av god kommunikasjon:
