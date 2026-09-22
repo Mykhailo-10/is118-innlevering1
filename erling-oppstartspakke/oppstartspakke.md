@@ -24,3 +24,17 @@ Referanser:
 
 
 ## Egenevaluering av gruppekontrakt
+Som vårt første gruppeprosjekt utarbeidet vi en gruppekontrakt bestående av en generell del fra skolen og en egendefinert del med våre spilleregler. Etter noen uker sammen har vi gjort oss praktiske erfaringer med hvordan kontrakten fungerer i hverdagen.
+Hensiktsmessighet og etterlevelse
+
+Spilleregler som å ta hensyn til hverandre har fungert godt i praksis. Vi har utvist fleksibilitet rundt møtetidspunkter slik at alle kan stille fysisk. Eksempelvis ved å flytte gruppearbeidet fra fredag til torsdag når noen har hatt behov for å reise hjem.
+Regelen om konstruktiv bruk av KI ble nådd i et av våre første innleveringsprosjekter. Da vi skulle skrive en analyse, husket vi kontraktsregelen og brukte KI bevisst som en sparringpartner framfor å la den gjøre jobben for oss.
+
+Også ansvarsfordeling og kommunikasjon har fungert bra. Ved å utpeke gruppeleder og sekretær avklarte vi rollene tidlig, og valget av Messenger som primær kommunikasjonsplattform har vi fulgt konsekvent. Tydelige roller og kommunikasjonslinjer har bidratt til at vi fungerer godt som gruppe.
+
+Svakheter og rom for forbedring
+Vi har til nå ikke opplevd friksjon eller uforutsette situasjoner, men er klar over at dette kan oppstå senere. Her ser vi at kontrakten mangler dybde på konflikthåndtering. Vi burde lagd en tydelig plan for hvordan vi internt håndterer at noen eventuelt ikke bidrar etter evne eller fullfører sine oppgaver.
+
+Vi ser også at enkelte formuleringer under spillereglene ble for korte, generelle og overfladiske. Formuleringen «Alle bidrar med sitt, og alle er klar over at arbeidsmengde kan variere fra person til person» er for vag. Den åpner for at noen kan sluntre unna og bruke regelen som en unnskyldning for lav innsats.
+
+En mer presis formulering kunne vært: «Alle plikter å bidra i tilnærmet like stor grad. Det er de øvrige gruppemedlemmene som vurderer om den enkeltes innsats er tilstrekkelig. Selv om det er krevende å måle presist, må alle kunne redegjøre for, og dokumentere sine bidrag.»
