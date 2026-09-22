@@ -15,6 +15,14 @@ Erling bør altså sette sammen gruppen slik at de ulike medlemmene utfyller hve
 ## 2. Design av "det første møtet": 
 
 ## 3. Rammer for relasjonelle kontrakter:
+Erlings prosjekt bør ha en relasjonell kontrakt med fokus på samarbeid, med beslutningsmyndighet, konflikthåndtering og kommunikasjonsstruktur. Dette skiller den relasjonelle kontrakten fra jerntriangelet (Jacobsen, 2016), som kun fokuserer på tid, kostnad og kvalitet. Relasjonelle forhold bør derimot avklares allerede i forming-fasen, når roller og forventninger etableres. Dette prosjektet består av et heterogent team, med deltakere fra ulike avdelinger. Det er deltakere som har dual lojalitet (Jacobsen, 2016), og derfor må de ta hensyn til både prosjektet og sin basisorganisasjon samtidig. Det spiller også en stor rolle at de har forskjellig erfaring og ulike forventninger knyttet til samarbeid. Derfor må Erling ordne disse spørsmålene gjennom kontrakten på forhånd, men jerntriangelet alene er ikke nok, fordi det ikke dekker spørsmål om samarbeid. 
+
+Kontrakten må avklare hvem som har beslutningsmyndighet. Dette er spesielt viktig for prosjekter som Erlings, fordi deltakerne har ulike roller og samtidig kan ha dual lojalitet, noe som kan føre til konflikt mellom prioriteringer og uklarhet rundt ansvar. Samtidig må en slik kontrakt også legge til rette for desentralisering (Jacobsen, 2016), slik at deltakerne kan ta beslutninger innenfor sitt ansvarsområde. Dette kan gi deltakerne større eierskap til prosjektet og gjøre det mulig for prosjekteier og prosjektleder å bruke mer tid på overordnede problemer. Derfor må kontrakten tydelig angi i hvilke situasjoner saken skal løses av fagpersonen, og når den må overføres til prosjektleder eller prosjekteier.
+
+Neste steg er konflikthåndtering, hvor det må være klare regler. Gruppen har overlappende skillelinjer (Jacobsen, 2016), siden deltakerne har ulik alder, utdanning og ulike forventninger til arbeidet, og dette kan forsterke konflikter. Derfor er dette punktet veldig viktig, og målet er ikke bare å løse problemer etter at de har oppstått, men også å redusere risikoen for at uenigheter utvikler seg til større konflikter.
+På grunn av dette bør kontrakten beskrive hvordan konflikter skal løses gjennom samarbeid og direkte og gjensidig tilpasning (Jacobsen, 2016) mellom partene. Det bør også finnes en plan som beskriver hvordan saken skal eskaleres, og hvem som skal ta den endelige beslutningen i tilfeller hvor partene fortsatt ikke klarer å bli enige. Dette kan direkte påvirke prosjektets resultater og skape kontekstuell risiko (Jacobsen, 2016). Kontrakten bør også inkludere hvordan uenigheter mellom Erling og prosjekteier skal håndteres, siden prosjekteier i slike tilfeller ikke kan være en nøytral part.
+Kommunikasjonsstruktur er et annet punkt som kontrakten mellom Erling og prosjekteier bør ta hensyn til. Først og fremst bør det stå hvordan og hvor ofte de skal kommunisere, hvordan informasjonen skal deles, og hvilke typer avvik Erling skal rapportere til prosjekteier. Alt dette påvirker systemtillit (Jacobsen, 2016), siden slike prosedyrer viser at alle i prosjektet deltar aktivt og skal bli hørt. 
+Denne kontrakten bør helst opprettes helt i begynnelsen av prosjektet, når det fortsatt finnes oppstartstillit (Jacobsen, 2016). Det er derfor viktig at Erling prioriterer jevnlig og personlig kontakt med deltakerne, for å bygge interpersonlig tillit.
 
 ## 4. Proaktive mekanismer for konflikthåndtering:
 Når det skal gjennomføres et omfattende prosjekt som skal gå over 15 måneder, er det helt avgjørende å ha et tverrfaglig samarbeid på plass. For å unngå at faglige uenigheter om prioriteringer, design eller tekniske løsninger eskalerer til fastlåste konflikter, bør prosjektleder etablere proaktive mekanismer for konflikthåndtering fra start. Dette handler om å bygge strukturer som forutser og forebygger problemer før de påvirker fremdriften.
@@ -30,6 +38,8 @@ Opprettelse av en gruppekontrakt kan også være et godt virkemiddel for å unng
 
 
 Referanser:
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
+Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi(4. utg.). Cappelen Damm Akademisk.
 
 
 
