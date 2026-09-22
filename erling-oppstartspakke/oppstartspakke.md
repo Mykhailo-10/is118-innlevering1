@@ -1,8 +1,6 @@
 # Oppstartspakke for Erling
 
 ## 1. Strategi for rekruttering og sammensetning:
-Strategi for rekruttering og sammensetning
-
 Når Erling skal sette sammen prosjektgruppen, bør han først se på hvilken kompetanse prosjektet faktisk trenger. Siden prosjektet handler om å utvikle en digital medborgerportal, er det behov for personer med ganske ulik bakgrunn. Gruppen trenger blant annet kompetanse innen IT, kommunale prosesser, sikkerhet, design og brukerbehov. Det er derfor en fordel at gruppen er heterogen, altså at medlemmene har forskjellige erfaringer, kunnskaper og perspektiver. Samtidig kan store forskjeller gjøre det vanskeligere å skape tillit og samhold i starten av prosjektet. Erling bør derfor prøve å finne en balanse mellom mangfold og en viss grad av likhet i gruppen (Jacobsen, 2016; Gjøsund & Huseby, 2023).
 
 I sammensetningen av gruppen bør Erling også tenke på de fire funksjonene produksjon, administrasjon, integrasjon og entreprenørskap. Produksjon handler om å få gjennomført de konkrete oppgavene i prosjektet, noe for eksempel IT-representanten og sikkerhetseksperten kan bidra mye med. Administrasjon handler mer om struktur, regler og kommunens arbeidsprosesser. Integrasjon er viktig for å få personer med ulik bakgrunn til å samarbeide og trekke i samme retning. Her vil Erling ha en viktig rolle som prosjektleder. Entreprenørskap handler om å tenke nytt og finne nye løsninger, hvor blant annet UX/UI-designeren og brukerrepresentantene kan bidra med andre perspektiver.
