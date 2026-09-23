@@ -49,7 +49,13 @@ Ved å kombinere aktivt tidslederskap med rullerende planlegging, en relasjonell
 
 
 ## 6. Sikring av god kommunikasjon:
+Ifølge Gjøsund & Huseby (2023) er det viktig å sikre god samhandling: i et sammensatt team på syv til åtte personer må prosjektleder etablere jevnbyrdig toveiskommunikasjon. Som sender bør Erling aktivt bruke metakommunikasjon, det vil si å snakke om hvordan teamet skal kommunisere, for å avklare forventninger og sette eksplisitte normer tidlig i det 15 måneder lange løpet. (Gjøsund & Huseby, 2023, kap. 4). Han må dempe de mest taleføre og stimulere til at fageksperter, den politiske rådgiveren og brukerrepresentantene fritt kan dele sin innsikt. Ved å fremme en diskursiv kommunikasjon søker teamet felles forståelse og avklarer problemstillinger gjennom åpen argumentasjon. (Gjøsund & Huseby, 2023, kap. 4).
 
+Når deltakere med ulik fagbakgrunn og kulturell identitet skal samarbeide, kan det lett oppstå organisatorisk og psykologisk støy som forstyrrer budskapet. (Gjøsund & Huseby, 2023, kap. 4). Erling må legge til rette for egnede kanaler, som samhandlingsverktøy og uformelle møteplasser, der medlemmene kan utveksle både faglige oppdateringer og sosiale meldinger. (Gjøsund & Huseby, 2023, kap. 4). Når mottakerne føler trygghet i gruppen, blir tilbakemeldinger mer presise, og terskelen for å dele kritisk informasjon senkes. (Gjøsund & Huseby, 2023, kap. 4).
+
+Siden prosjektet skal levere en medborgerportal innenfor et budsjett på 8 millioner kroner og har et ambisiøst mål om 20 % økt innbyggerengasjement, må Erling også stimulere til ekstern kommunikasjon. (Gjøsund & Huseby, 2023, kap. 4). Fremragende team isolerer seg ikke i siloer, men sender medlemmene sine ut for å kommunisere aktivt med andre avdelinger, politikere og lokalsamfunnet. Spesielt den politiske rådgiveren og brukerrepresentantene bør fungere som ambassadører som bygger tillit, innhenter støtte og forankrer prosjektet hos viktige interessenter utenfor kjerneteamet.
+
+Til slutt bør Erling strukturere teamets arbeid etter prinsippet om kommunikasjon i støt. Dette innebærer å veksle mellom intensive, fokuserte møter der overføring av informasjon overdeles, og skjermede perioder der UX-designeren og sikkerhetseksperten får ro til uforstyrret dyparbeid. (Gjøsund & Huseby, 2023, kap. 4). Ved å kombinere klare normer, informelle relasjoner, ekstern dialog og strukturerte samhandlingsstøt har Erling det beste utgangspunktet for å sikre effektiv framdrift og levere medborgerportalen innen fristen. 
 
 Referanser:
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
