@@ -5,7 +5,7 @@ Når Erling skal sette sammen prosjektgruppen, bør han først se på hvilken ko
 
 I sammensetningen av gruppen bør Erling også tenke på de fire funksjonene produksjon, administrasjon, integrasjon og entreprenørskap. Produksjon handler om å få gjennomført de konkrete oppgavene i prosjektet, noe for eksempel IT-representanten og sikkerhetseksperten kan bidra mye med. Administrasjon handler mer om struktur, regler og kommunens arbeidsprosesser. Integrasjon er viktig for å få personer med ulik bakgrunn til å samarbeide og trekke i samme retning. Her vil Erling ha en viktig rolle som prosjektleder. Entreprenørskap handler om å tenke nytt og finne nye løsninger, hvor blant annet UX/UI-designeren og brukerrepresentantene kan bidra med andre perspektiver.
 
-Det er likevel ikke nok å bare samle personer med forskjellig kompetanse. (Gjøsund og Huseby ,2023), viser at hvordan en gruppe er satt sammen, har betydning for hvordan gruppen fungerer og utvikler seg. Medlemmene bør derfor også ha noen felles forventninger til hvordan de skal samarbeide og hva de ønsker å oppnå.
+Det er likevel ikke nok å bare samle personer med forskjellig kompetanse. (Gjøsund og Huseby,2023), viser at hvordan en gruppe er satt sammen, har betydning for hvordan gruppen fungerer og utvikler seg. Medlemmene bør derfor også ha noen felles forventninger til hvordan de skal samarbeide og hva de ønsker å oppnå.
 
 Erling bør altså sette sammen gruppen slik at de ulike medlemmene utfyller hverandre, samtidig som de har et felles mål å jobbe mot. Dette er viktig å tenke på allerede i oppstartsfasen, fordi et godt sammensatt team kan gjøre det lettere å bygge tillit, fordele ansvar og samarbeide videre i prosjektet.
 
@@ -72,8 +72,8 @@ Regelen om konstruktiv bruk av KI ble nådd i et av våre første innleveringspr
 
 Også ansvarsfordeling og kommunikasjon har fungert bra. Ved å utpeke gruppeleder og sekretær avklarte vi rollene tidlig, og valget av Messenger som primær kommunikasjonsplattform har vi fulgt konsekvent. Tydelige roller og kommunikasjonslinjer har bidratt til at vi fungerer godt som gruppe.
 
-Svakheter og rom for forbedring
-Vi har til nå ikke opplevd friksjon eller uforutsette situasjoner, men er klar over at dette kan oppstå senere. Her ser vi at kontrakten mangler dybde på konflikthåndtering. Vi burde lagd en tydelig plan for hvordan vi internt håndterer at noen eventuelt ikke bidrar etter evne eller fullfører sine oppgaver.
+### Svakheter og rom for forbedring
+Vi har til nå ikke opplevd friksjon eller uforutsette situasjoner, men er klar over at dette kan oppstå senere. Her ser vi at kontrakten mangler dybde på konflikthåndtering. Vi burde lagd en tydelig plan for hvordan vi internt håndterer at noen eventuelt ikke bidrar etter evne eller fullfører sine oppgaver. Eksempelvis kunne vi lagd et punkt i kontrakten der vi skriver at «ved anledninger der et gruppemedlem ikke møter opp eller bidrar, skal gruppen så langt det lar seg gjøre gi en skriftlig eller munntlig beskjed til vedkommende om at dette ikke er ønsket atfred."
 
 Vi ser også at enkelte formuleringer under spillereglene ble for korte, generelle og overfladiske. Formuleringen «Alle bidrar med sitt, og alle er klar over at arbeidsmengde kan variere fra person til person» er for vag. Den åpner for at noen kan sluntre unna og bruke regelen som en unnskyldning for lav innsats.
 
@@ -81,4 +81,4 @@ En mer presis formulering kunne vært: «Alle plikter å bidra i tilnærmet like
 
 ## Bruk av kunstig intelligens
 
-- **Punkt 3 (Rammer for relasjonelle kontrakter):** Claude AI ble brukt til retting av grammatikk og språkfeil, samt til å gi råd om struktur og innhold. Claude ble ikke brukt til å skrive teksten eller generere ideer til innholdet.
+- **Punkt 3 (Rammer for relasjonelle kontrakter):** Claude AI ble brukt til retting av grammatikk og språkfeil, samt til å gi råd om struktur og innhold. Claude ble ikke brukt til å skrive selve teksten eller generere ideer til innholdet. Claude hentet ikke inn kilder eller faktapåstander som er brukt i teksten. 
