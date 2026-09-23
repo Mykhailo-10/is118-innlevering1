@@ -72,7 +72,7 @@ Regelen om konstruktiv bruk av KI ble nådd i et av våre første innleveringspr
 
 Også ansvarsfordeling og kommunikasjon har fungert bra. Ved å utpeke gruppeleder og sekretær avklarte vi rollene tidlig, og valget av Messenger som primær kommunikasjonsplattform har vi fulgt konsekvent. Tydelige roller og kommunikasjonslinjer har bidratt til at vi fungerer godt som gruppe.
 
-### Svakheter og rom for forbedring
+## Svakheter og rom for forbedring
 Vi har til nå ikke opplevd friksjon eller uforutsette situasjoner, men er klar over at dette kan oppstå senere. Her ser vi at kontrakten mangler dybde på konflikthåndtering. Vi burde lagd en tydelig plan for hvordan vi internt håndterer at noen eventuelt ikke bidrar etter evne eller fullfører sine oppgaver. Eksempelvis kunne vi lagd et punkt i kontrakten der vi skriver at «ved anledninger der et gruppemedlem ikke møter opp eller bidrar, skal gruppen så langt det lar seg gjøre gi en skriftlig eller munntlig beskjed til vedkommende om at dette ikke er ønsket atfred."
 
 Vi ser også at enkelte formuleringer under spillereglene ble for korte, generelle og overfladiske. Formuleringen «Alle bidrar med sitt, og alle er klar over at arbeidsmengde kan variere fra person til person» er for vag. Den åpner for at noen kan sluntre unna og bruke regelen som en unnskyldning for lav innsats.
