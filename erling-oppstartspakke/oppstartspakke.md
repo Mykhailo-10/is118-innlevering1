@@ -32,6 +32,21 @@ I et slikt prosjekt innebærer det å avklare roller og forventninger tidlig, et
 
 Opprettelse av en gruppekontrakt kan også være et godt virkemiddel for å unngå konflikter. Å lage en bindende kontrakt, i kombinasjon med å opprette et uavhengig organ som kan behandle uenigheter mellom partene i et prosjekt (Jacobsen, 2016), har god effekt ifølge empiriske studier (Jacobsen, 2016) Dette sikrer at prosjektleder har en instans å henvende seg til dersom det oppstår en konflikt gruppen ikke klarer å løse selv. Dermed kan prosjektleder holde større fokus på det faktiske arbeidet som skal utføres.
 ## 5. Håndtering av tidspress og "planleggingsfellen":
+Når et nytt prosjekt starter opp, oppstår det nesten alltid et sterkt handlingspress tidlig. I Erlings prosjekt er det satt et totalbudsjett på 8 millioner NOK og en tidsramme på 15 måneder for å utvikle medborgerportalen (Universitetet i Agder, 2025). Den klare tidsrammen kan bidra til en Time-Frame-effekt, der prosjektlederen får et sterkere fokus på handling og fremdrift fremfor analyse. (Jacobsen, 2016).
+
+Problemet er at dette presset lett drar seg inn i planleggingsfellen hvor man undervurderer hvor mye tid, ressurser og usikkerhet som faktisk trengs for å bli ferdig, gjerne fordi man er litt for optimistisk i starten (Jacobsen, 2016). Hvis Erling stresser gjennom oppstarten uten å avklare forventninger, kan uforutsette problemer dukke opp, som kan koste dem langt mer tid enn det man i utgangspunktet “sparte”.
+For å motvirke handlingspresset, og samtidig sikre at planene har nok fleksibilitet, bør Erling utøve aktivt tidslederskap (Jacobsen, 2016). Forholdet mellom opplevd tidspress og gruppens funksjon følger en omvendt U-formet kurve (Figur 6.3, Jacobsen,2016, s. 133). Ved for lite tidspress vil gruppen mangle fokus og koordinering, mens med for høyt tidspress vil det føre til stress og redusert produktivitet. Tidslederskap innebærer at prosjektlederen gjennom dialoger over perioden prosjektet blir holdt der teamet er med på å forme oppfatningen av tidsrammene, og kan komme frem til delmål som er realistisk (Jacobsen, 2016).
+Tre grep som kan hjelpe: 
+Rullerende planlegging (LEAN): planlegge bakover fra målet om 20% økt innbyggerengasjement, men bare detaljerte planer for nærmeste periode resten justeres etter hvert som usikkerhet avdekkes (Jacobsen, 2016)
+
+Relasjonell kontrakt: Erstatte det stive “jerntriangelet” (tid, kostnad, kvalitet) med en kontraktsform som heller legger vekt på kommunikasjon og tilpasning underveis (Jacobsen, 2016).
+
+Desentralisert beslutningsmyndighet: I stedet for at alle faglige avklaringer skal gå via Erling, bør spesialistene innenfor sine fagområder ta avgjørelser innenfor deres fagområde. Slik unngår man at han blir en flaskehals under tidspress (Jacobsen, 2016). 
+
+Ved å kombinere aktivt tidslederskap med rullerende planlegging, en relasjonell kontrakt og desentralisert beslutningsmyndighet, kan Erling både holde fremdriften oppe og samtidig gi det tverrfaglige teamet rom til å håndtere usikkerheten som uunngåelig vil dukke opp underveis. 
+
+
+
 
 ## 6. Sikring av god kommunikasjon:
 
@@ -39,6 +54,7 @@ Opprettelse av en gruppekontrakt kan også være et godt virkemiddel for å unng
 Referanser:
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi(4. utg.). Cappelen Damm Akademisk.
+Universitetet i Agder. (2025). Gruppeinnlevering 1 - IS-118: Prosjektsamarbeid og GitHub-integrasjon. Institutt for informasjonssystemer, UiA. 
 
 
 
