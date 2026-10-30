@@ -58,6 +58,7 @@ Siden prosjektet skal levere en medborgerportal innenfor et budsjett på 8 milli
 
 Til slutt bør Erling strukturere teamets arbeid etter prinsippet om kommunikasjon i støt. Dette innebærer å veksle mellom intensive, fokuserte møter der overføring av informasjon overdeles, og skjermede perioder der UX-designeren og sikkerhetseksperten får ro til uforstyrret dyparbeid. (Gjøsund & Huseby, 2023, kap. 4). Ved å kombinere klare normer, informelle relasjoner, ekstern dialog og strukturerte samhandlingsstøt har Erling det beste utgangspunktet for å sikre effektiv framdrift og levere medborgerportalen innen fristen. 
 
+
 ## Referanser:
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi(4. utg.). Cappelen Damm Akademisk.
