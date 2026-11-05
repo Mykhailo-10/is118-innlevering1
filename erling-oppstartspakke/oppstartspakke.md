@@ -85,4 +85,4 @@ En mer presis formulering kunne vært: «Alle plikter å bidra i tilnærmet like
 
 ## Bruk av kunstig intelligens
 
-- **Punkt 3 (Rammer for relasjonelle kontrakter):** Claude AI ble brukt til retting av grammatikk og språkfeil, samt til å gi råd om struktur og innhold. Claude ble ikke brukt til å skrive selve teksten eller generere ideer til innholdet. Claude hentet ikke inn kilder eller faktapåstander som er brukt i teksten. 
+- **Punkt 3 (Rammer for relasjonelle kontrakter):** Claude AI ble brukt til retting av grammatikk og språkfeil, samt til å gi råd om struktur og innhold. Claude ble ikke brukt til å skrive selve teksten eller generere ideer til innholdet. Claude hentet ikke inn kilder eller faktapåstander som er brukt i teksten.
